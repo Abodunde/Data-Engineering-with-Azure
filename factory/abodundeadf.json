@@ -1,0 +1,9 @@
+{
+	"name": "abodundeadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "885f06bb-0731-44c8-a6fe-873e910a4f24",
+		"tenantId": "b4c8c9c7-0887-4c2a-b56a-4b0a449d089d"
+	}
+}
