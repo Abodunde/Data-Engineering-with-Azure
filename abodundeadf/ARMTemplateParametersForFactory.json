@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "abodundeadf"
+		},
+		"AzureSynapseAnalytics1_connectionString": {
+			"value": ""
+		},
+		"ls_gen2_storageaccount_accountKey": {
+			"value": ""
+		},
+		"ls_sqldb_connectionString": {
+			"value": ""
+		},
+		"ls_gen2_storageaccount_properties_typeProperties_url": {
+			"value": "https://abodundesa.dfs.core.windows.net/"
+		}
+	}
+}
